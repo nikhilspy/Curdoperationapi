@@ -28,23 +28,23 @@ Create Virtual Environment
 
 For Windows
 ```
-$  python -m venv venv
+$  python -m venv djangoenv
 ```
 For Linux
 ```
-$  python3 -m venv venv
+$  python3 -m venv djangoenv
 ```
 
 Activate Virtual Environment
 
 For Windows
 ```
-$  source venv/scripts/activate
+$  source djangoenv/scripts/activate
 ```
 
 For Linux
 ```
-$  source venv/bin/activate
+$  source djangoenv/bin/activate
 ```
 
 **3. Clone this project**
