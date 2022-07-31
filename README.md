@@ -54,7 +54,7 @@ $  git clone
 
 Then, Enter the project
 ```
-$  cd django-student-management-system
+$  cd CRUD_operation_Api
 ```
 
 **4. Install Requirements from 'requirements.txt'**
